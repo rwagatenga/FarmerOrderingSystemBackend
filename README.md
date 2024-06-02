@@ -33,7 +33,7 @@ The Agro-Input Store Management System is designed to facilitate the buying and 
 
 1. Clone the repository from [GitHub Repo](https://github.com/rwagatenga/agro-input-store).
 2. Navigate to the project directory.
-3. install `nvm install` then `nvm use 20`
+3. install `nvm install` then `nvm use`
 4. Install dependencies using `npm install`.
 5. Set up the environment variables such as database connection details and server port in a `.env` file.
 6. Start the server using `npm start`.
