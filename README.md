@@ -95,7 +95,7 @@ To maintain code quality and facilitate development, several npm scripts are pro
   ```bash
   npm test
   ```
-  <b>N.B:</b> The test are not yet fully functioning due to lacy of time.
+  <b>N.B:</b> The tests are not yet fully functioning due to shortage of time. <br />
   w
   The provided scripts help maintain code quality, automate repetitive tasks, and ensure consistency throughout the development process. Use them regularly to enhance productivity and reliability.
 
